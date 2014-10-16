@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cog:home|Door43 (cog)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cog|d43-cog repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cog/archive/master.zip|d43-cog.zip]]
+
+**Recent Changes**
+{{changes>ns = cog}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cog|Ethnologue data]]
+
